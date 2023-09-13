@@ -29,7 +29,7 @@ class GradeCalculator:
             course_grade = quizzes_part + midterm_part + project_part + final_part
             return course_grade
         
-        
+        #akash
     @staticmethod
     def calculate_optimistic_course_percentage(grades:Grades, weights:GradeWeights) -> float:
         """
